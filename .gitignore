@@ -1,3 +1,4 @@
-/moduleTest/.idea/
+/module/.idea/
 /helloWorld/helloWorld.exe
-/moduleTest/hello/hello.exe
+/module/hello/hello.exe
+/.idea/
