@@ -1,4 +1,3 @@
 /module/.idea/
-/helloWorld/helloWorld.exe
-/module/hello/hello.exe
-/.idea/
+*.exe
+.idea/
